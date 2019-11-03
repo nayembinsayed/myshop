@@ -1,7 +1,7 @@
 # myshop
 Online E-Commerce Shop Using Localstorage
 
-# feature
+# Feature
 1.Add Products
 2.View Products
 3.Add to cart products
