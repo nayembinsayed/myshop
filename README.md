@@ -1,5 +1,5 @@
 # myshop
-Online E-Commerce Shop Using Localstorage
+Offline E-Commerce Shop Using Localstorage
 
 # Feature
 1.Add Products
