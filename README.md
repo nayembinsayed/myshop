@@ -15,8 +15,12 @@ screenshot
 # New Product
 screenshot
 
+<img src = "https://github.com/nayembinsayed/myshop/blob/master/Screen%20Shot%202019-11-03%20at%2011.00.05%20PM.png?raw=true" width = “200”>
+
 # Cart
 screenshot
+
+<img src = "https://github.com/nayembinsayed/myshop/blob/master/Screen%20Shot%202019-11-03%20at%2011.00.09%20PM.png?raw=true" width = “200”>
 
 
 
